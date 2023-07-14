@@ -1,6 +1,7 @@
 # Cirhosis Prediction
 Cirrhosis is a late stage of scarring (fibrosis) of the liver caused by many forms of liver diseases and conditions, such as hepatitis and chronic alcoholism. 
 ## Table of Content
+> Click on left *three line menu* to view headings
 - [Dataset](https://www.kaggle.com/datasets/fedesoriano/cirrhosis-prediction-dataset)
 - [Attributes](#attributes)
 - [Exploratory Analysis](#exploratory-analysis)
@@ -42,4 +43,7 @@ Cirrhosis is a late stage of scarring (fibrosis) of the liver caused by many for
 - Hepatomegaly: Hepatomegaly refers to the enlargement of the liver
 - Spiders: These are dilated blood vessels on the skin's surface that resemble spider legs.
 - Edema: Edema refers to the swelling caused by the accumulation of fluid in tissues
+
+Studying the below bar plot we can come to a conclusion that enlargement of liver  direct proportional to  increase in severity of cirrhosis
+Refer to [Attributes](#attributes)
   <p align="center"><img width="350" alt="image" src="https://github.com/JestinGigi/Cirrhosis_prediction/assets/75965382/44504e35-235e-4d3b-b33c-da651c633929"></p>
