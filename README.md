@@ -45,5 +45,13 @@ Cirrhosis is a late stage of scarring (fibrosis) of the liver caused by many for
 - Edema: Edema refers to the swelling caused by the accumulation of fluid in tissues
 
 Studying the below bar plot we can come to a conclusion that enlargement of liver  direct proportional to  increase in severity of cirrhosis
+<br>
 Refer to [Attributes](#attributes)
   <p align="center"><img width="350" alt="image" src="https://github.com/JestinGigi/Cirrhosis_prediction/assets/75965382/44504e35-235e-4d3b-b33c-da651c633929"></p>
+
+### Heatmap
+A heatmap is plotted using the correlation matrix, which reveals that Hepatomegaly, Spiders, and Albumin have the highest correlation coefficients ranging from 0.3 to 0.5.
+<p align="center"><img width="319" alt="image" src="https://github.com/JestinGigi/Cirrhosis_prediction/assets/75965382/215bc53d-6c7f-4a7f-a889-826c791030a7"></p>
+
+## Model Training 
+Model is trained using GradientBoosting with input balanced using **SMOTE**
